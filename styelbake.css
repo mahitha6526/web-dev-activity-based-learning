@@ -1,0 +1,44 @@
+```css
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #fff0f5;
+}
+
+header {
+    background-color: deeppink;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: pink;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid pink;
+}
+
+h2 {
+    color: deeppink;
+}
+
+footer {
+    background-color: deeppink;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+```
